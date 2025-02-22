@@ -5,12 +5,12 @@
 Welcome to the Snake Game project! This desktop application offers a fun and classic arcade-style gameplay where you control a snake to collect food while avoiding collisions with walls and yourself. Test your reflexes and see how long you can survive as the snake grows with each bite!
 
 ## Features
-- **Classic Snake Gameplay**: Control the snake and grow by eating food.
-- **Intuitive Controls**: Use arrow keys to navigate the snake in different directions.
-- **Score System**: Track your progress with a live score counter.
-- **Game Over Display**: See your final score when the game ends.
-- **Restart Option**: Press SPACE to restart the game after losing.
-- **Smooth Animations**: Enjoy a clean and responsive game experience.
+✅ **Classic Snake Gameplay**: Control the snake and grow by eating food.
+✅ **Intuitive Controls**: Use arrow keys to navigate the snake in different directions.
+✅ **Score System**: Track your progress with a live score counter.
+✅ **Game Over Display**: See your final score when the game ends.
+✅ **Restart Option**: Press SPACE to restart the game after losing.
+✅ **Smooth Animations**: Enjoy a clean and responsive game experience.
 
 ## Getting Started
 1. **Installation**:
@@ -28,13 +28,13 @@ Welcome to the Snake Game project! This desktop application offers a fun and cla
 - Avoid hitting the walls or yourself, or it's Game Over!
 - Press SPACE to restart the game when you lose.
 
-## Rules
+## Rules 📜
 - The snake moves automatically in the current direction.
 - Every time the snake eats food, it grows, and your score increases.
 - The game ends when the snake collides with the wall or its own body.
 - You can restart the game anytime by pressing the SPACE key.
 
-## About
+## About 📘
 This project is a simple yet engaging implementation of the classic Snake game, built using Python and Tkinter. It’s designed to provide a nostalgic gaming experience while testing players' reaction speed and strategic thinking.
 
 ## Contribution

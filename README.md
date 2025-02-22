@@ -5,12 +5,12 @@
 Welcome to the Snake Game project! This desktop application offers a fun and classic arcade-style gameplay where you control a snake to collect food while avoiding collisions with walls and yourself. Test your reflexes and see how long you can survive as the snake grows with each bite!
 
 ## Features
-✅ **Classic Snake Gameplay**: Control the snake and grow by eating food.
-✅ **Intuitive Controls**: Use arrow keys to navigate the snake in different directions.
-✅ **Score System**: Track your progress with a live score counter.
-✅ **Game Over Display**: See your final score when the game ends.
-✅ **Restart Option**: Press SPACE to restart the game after losing.
-✅ **Smooth Animations**: Enjoy a clean and responsive game experience.
+- **Classic Snake Gameplay**: Control the snake and grow by eating food.
+- **Intuitive Controls**: Use arrow keys to navigate the snake in different directions.
+- **Score System**: Track your progress with a live score counter.
+- **Game Over Display**: See your final score when the game ends.
+- **Restart Option**: Press SPACE to restart the game after losing.
+- **Smooth Animations**: Enjoy a clean and responsive game experience.
 
 ## Getting Started
 1. **Installation**:
